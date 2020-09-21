@@ -1,0 +1,15 @@
+{
+  "name": "keyboard-sound-simu",
+  "version": "1.0.0",
+  "description": "simulate the sound of a good keyboard",
+  "main": "keyboard-logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LE MONIES DE SAGAZAN Mayeul",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "play-sound": "^1.1.3"
+  }
+}
